@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ MAE Site
+# 📖 MAE Site
 
 **Book Animasyon · Book Animasyon Denemesi**
 
